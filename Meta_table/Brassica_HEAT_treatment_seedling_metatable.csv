@@ -1,0 +1,11 @@
+,Treatment,Tissue,Accession,Timepoint,Custome
+12h_GHA,Heat,Seedling,GHA,12h,Unknown
+12h_XK,Heat,Seedling,XK,12h,Unknown
+18h_GHA,Heat,Seedling,GHA,18h,Unknown
+18h_XK,Heat,Seedling,XK,18h,Unknown
+1h_GHA,Heat,Seedling,GHA,1h,Unknown
+1h_XK,Heat,Seedling,XK,1h,Unknown
+6h_GHA,Heat,Seedling,GHA,6h,Unknown
+6h_XK,Heat,Seedling,XK,6h,Unknown
+Control_GHA,Control,Seedling,GHA,0h,Unknown
+Control_XK,Control,Seedling,XK,0h,Unknown
