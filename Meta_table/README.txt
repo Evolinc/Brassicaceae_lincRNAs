@@ -1,4 +1,4 @@
-# Meta table for lncRNA and protein coding gene expression worksheet 
+# Meta table for lncRNA and protein coding gene expression worksheet
 
 The current directory includes meta tables for Eutrema, Brassica, and Camelina experiments:
 
