@@ -1,3 +1,7 @@
+# Expression profiles for lncRNA and protein coding gene expression worksheet
+
+The current directory includes expression data sheet for Eutrema, Brassica, and Camelina experiments:
+
 Brassica_COLD_data.csv
 Brassica_DROUGHT_data.csv
 Brassica_HEAT_data.csv
