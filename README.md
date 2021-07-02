@@ -1,4 +1,4 @@
-# Brassicaceae lincRNAs expression data visulizations
+# Brassicaceae lincRNAs expression data visualizations
 Expression profiles of Brassicaceae lincRNAs associated with Palos et al
 
 
