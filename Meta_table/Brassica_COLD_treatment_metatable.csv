@@ -20,9 +20,9 @@ JWW_cold_45_3,COLD,Leaf,J,45,Unknown
 JWW_cold_50_1,COLD,Leaf,J,50,Unknown
 JWW_cold_50_2,COLD,Leaf,J,50,Unknown
 JWW_cold_50_3,COLD,Leaf,J,50,Unknown
-XBJ_control_1,CONTROL,Leaf,X,0,Unknown
-XBJ_control_2,CONTROL,Leaf,X,0,Unknown
-XBJ_control_3,CONTROL,Leaf,X,0,Unknown
+XBJ_control_1_1,CONTROL,Leaf,X,0,Unknown
+XBJ_control_2_1,CONTROL,Leaf,X,0,Unknown
+XBJ_control_3_1,CONTROL,Leaf,X,0,Unknown
 XBJ_cold_10_1,COLD,Leaf,X,10,Unknown
 XBJ_cold_10_2,COLD,Leaf,X,10,Unknown
 XBJ_cold_10_3,COLD,Leaf,X,10,Unknown
