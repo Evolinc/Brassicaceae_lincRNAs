@@ -1,2 +1,3 @@
 clustergrammer2
 pandas
+scipy
