@@ -1,6 +1,10 @@
-clustergrammer2
+numpy
 pandas
 scipy
-numpy
+scikit-learn
 ipywidgets
-sklearn
+matplotlib
+pyarrow
+bqplot==0.11.2
+statsmodels==0.11.1
+clustergrammer2==0.17.0
