@@ -1,3 +1,5 @@
 clustergrammer2
 pandas
 scipy
+numpy
+ipywidgets
