@@ -1,7 +1,7 @@
 ,Treatment,Tissue,Accession,Timepoint,Custome
-JWW_control_1,Control,Leaf,J,0,Unknown
-JWW_control_2,Control,Leaf,J,0,Unknown
-JWW_control_3,Control,Leaf,J,0,Unknown
+JWW_control_1_1,Control,Leaf,J,0,Unknown
+JWW_control_2_1,Control,Leaf,J,0,Unknown
+JWW_control_3_1,Control,Leaf,J,0,Unknown
 JWW_cold_25_1,COLD,Leaf,J,25,Unknown
 JWW_cold_25_2,COLD,Leaf,J,25,Unknown
 JWW_cold_25_3,COLD,Leaf,J,25,Unknown
