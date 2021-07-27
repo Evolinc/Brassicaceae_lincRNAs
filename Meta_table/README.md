@@ -2,6 +2,7 @@
 
 The current directory includes meta tables for Eutrema, Brassica, and Camelina experiments:
 
+#### Arabidopsis_klepikova_stress_metatable.csv
 #### Brassica_COLD_treatment_metatable.csv
 #### Brassica_DROUGHT_treatment_metatable.csv
 #### Brassica_HEAT_treatment_leaf_metatable.csv
