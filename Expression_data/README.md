@@ -2,6 +2,7 @@
 
 The current directory includes expression data sheet for Eutrema, Brassica, and Camelina experiments:
 
+#### Brassica_ATLAS_data.csv
 #### Brassica_COLD_data.csv
 #### Brassica_DROUGHT_data.csv
 #### Brassica_HEAT_data.csv
